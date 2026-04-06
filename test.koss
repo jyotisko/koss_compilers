@@ -1,0 +1,7 @@
+SET xyz TO 5
+SET sum TO xyz + 10
+IF xyz < 10 THEN
+    SET xyz TO 10
+END
+
+DISP xyz

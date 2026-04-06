@@ -1,0 +1,5 @@
+mov rax, 3            ; move 3 into rax
+
+mov rbx, 5            ; move 5 into rbx
+          
+add rax, rbx          ; into rax, add rbx

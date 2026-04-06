@@ -1,0 +1,8 @@
+xyz = 5
+t0 = xyz + 10
+sum = t0
+t1 = xyz < 10
+IF NOT t1 GOTO L2
+xyz = 10
+L2:
+PRINT xyz
